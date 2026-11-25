@@ -1,8 +1,8 @@
 # Moved the Deadline to Tuesday, Calendar Believed Me
 
-![Competition](https://make.fun/badge/u-brisk-kestrel-93-the-one-line-excuse-championship-37f2bb6e.svg)
-![Rank](https://make.fun/badge/u-brisk-kestrel-93-the-one-line-excuse-championship-37f2bb6e/arestafirman/excuse-moved-deadline-tuesday/rank.svg)
-![Reward](https://make.fun/badge/u-brisk-kestrel-93-the-one-line-excuse-championship-37f2bb6e/arestafirman/excuse-moved-deadline-tuesday/reward.svg)
+[![Moved the Deadline to Tuesday, Calendar Believed Me](https://make.fun/badge/u-brisk-kestrel-93-the-one-line-excuse-championship-37f2bb6e.svg)](https://make.fun/c/u-brisk-kestrel-93-the-one-line-excuse-championship-37f2bb6e)
+[![Rank](https://make.fun/badge/u-brisk-kestrel-93-the-one-line-excuse-championship-37f2bb6e/arestafirman/excuse-moved-deadline-tuesday/rank.svg)](https://make.fun/c/u-brisk-kestrel-93-the-one-line-excuse-championship-37f2bb6e)
+[![Reward](https://make.fun/badge/u-brisk-kestrel-93-the-one-line-excuse-championship-37f2bb6e/arestafirman/excuse-moved-deadline-tuesday/reward.svg)](https://make.fun/c/u-brisk-kestrel-93-the-one-line-excuse-championship-37f2bb6e)
 
 ## Entry
 
